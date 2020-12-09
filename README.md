@@ -5,7 +5,6 @@
 - I’m currently working on a bunch of things 🔭 
 - I love playing games too ! (IGN: genesdemom) 🕹️
 - Hala Madrid 💙 !!!!
-- My Online Presence[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='19'>](https://github.com/github)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='19'>](https://twitter.com/v_emeni)
 - Read my articles on - https://dev.to/genesdemon
 
 
