@@ -1,7 +1,7 @@
 ### Heyo I'm Oghenevwede! 🤡
 - I am a software developer. 💻
 - I build games with Unity (C#) and Roblox (Lua)and occasionally C++ 🎮
-- I build APIs with PHP & laravel, Mobile Apps with Flutter (Kinda know Java too!) 📱
+- I build APIs with PHP & lumen, Mobile Apps with Flutter (Kinda know Kotlin too!) 📱
 - I’m currently working on a bunch of things 🔭 
 - I love playing games too ! (IGN: genesdemom) 🕹️
 - Hala Madrid 💙 !!!!
