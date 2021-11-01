@@ -1,7 +1,9 @@
 ### Heyo I'm Oghenevwede! 🤡
-- I build games with Unity (C#) and Roblox (Lua)and occasionally C++ 🎮
-- I build APIs with PHP and Mobile Apps with Flutter  📱
-- I’m currently working on a bunch of things 🔭 
+- Very lazy, but when i'm not ;
+  - I build mobile apps with flutter and swift
+  - APIs with Node Js (Express) and Go
+  - Games with Unity and Solar 2D
+  - Eye-catching designs with Figma
 - I love playing games too ! (IGN: genesdemom) 🕹️
 - Hala Madrid 💙 !!!!
 - Read my articles on - https://dev.to/genesdemon
