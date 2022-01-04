@@ -1,6 +1,6 @@
 ### Heyo I'm Oghenevwede! 🤡
 - Very lazy, but when i'm not ;
-  - I build mobile apps with flutter and swift
+  - I build mobile apps and mobile UIs with flutter 
   - APIs with Node Js (Express) and Go
   - Games with Unity and Solar 2D
   - Eye-catching designs with Figma
