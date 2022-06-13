@@ -1,14 +1,11 @@
 ### Heyo I'm Oghenevwede! 🤡
-  - I build mobile apps and mobile UIs with flutter 
-  - APIs with Node Js (Express) and Go
-  - Games with Unity and Solar 2D
-  - Eye-catching designs with Figma
-- I love playing games too ! (IGN: genesdemom) 🕹️
+- Node Js, Go, PHP, Express, Typescript
+- Flutter, C#, unity, Lua, Solar 2D
+- IGN: genesdemom 🕹️
 - Hala Madrid 💙 !!!!
-- Read my articles on - https://dev.to/genesdemon
 
 
-[![Oghenevwede's github stats](https://github-readme-stats.vercel.app/api?username=Genesdemon)](https://github.com/anuraghazra/github-readme-stats)
+// [![Oghenevwede's github stats](https://github-readme-stats.vercel.app/api?username=Genesdemon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
